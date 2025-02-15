@@ -3,7 +3,7 @@
 
 ### Overview
 This repository contains the Jupyter Notebook  notebook used in the session on Neuromorphic Computing, taking place at the Swisstech Convention Center (EPFL) on Friday 14.02.2025.
-The tutorial covers the fundamentals of SNNs and practical their implementation using Sinabs and Tonic.
+The tutorial covers the fundamentals of SNNs and their practical implementation using Sinabs and Tonic.
 
 ### Licensing
 
