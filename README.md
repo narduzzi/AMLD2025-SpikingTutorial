@@ -8,7 +8,6 @@ The tutorial covers the fundamentals of SNNs and their practical implementation 
 ### Licensing
 
 Code: Licensed under the MIT License (see LICENSE for details).
-Documentation and Explanations: Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 ### Contribution
 
